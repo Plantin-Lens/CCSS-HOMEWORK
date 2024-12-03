@@ -1,0 +1,29 @@
+#fondo{
+  background-color: gray;
+  width:85vw ;
+  margin: auto;
+}
+
+  .place{
+    margin-left:30%;
+    
+    padding:10px
+
+  }
+  h4{
+    color: red;
+  }
+
+  .colo{
+    border:2px solid black;
+    width:fit-content;
+    display:flex;
+    flex-direction:column ;
+   
+  }
+  
+  img{
+    width:30%;
+   
+    
+  }
